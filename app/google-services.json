@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433281600524",
+    "project_id": "pruebafirestore1-3e806",
+    "storage_bucket": "pruebafirestore1-3e806.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433281600524:android:73b52cef3c33515ce5f229",
+        "android_client_info": {
+          "package_name": "com.tesji.myappdonuts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcxoUNojKHtbXrWYLizTEq09juSfF4scA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
